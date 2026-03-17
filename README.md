@@ -32,7 +32,7 @@ By identifying transaction trends, service performance, and operational issues, 
 
 Digital payment platforms face challenges related to transaction failures, service performance variability, and operational inefficiencies:
 - **Payment Failures:** Transaction failures due to insufficient balance, incorrect PIN, or server errors negatively impact user experience.
-- **Revenue Loss:**Unsuccessful or failed payments lead to revenue leakage and reduced transaction volumes.
+- **Revenue Loss:** Unsuccessful or failed payments lead to revenue leakage and reduced transaction volumes.
 - **Service Performance Visibility:** Lack of clear insights into which financial services perform best makes it difficult to optimize fintech product strategies.
 - **Customer Experience:** Frequent payment failures or delays may reduce customer trust and platform engagement.
 
