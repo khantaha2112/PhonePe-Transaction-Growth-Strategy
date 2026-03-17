@@ -63,8 +63,7 @@ High cancellation rates (both customer and driver-initiated) and inconsistent se
 ```
 PhonePe-Transaction-Growth-Strategy/
 ├── README.md                              (Project documentation)
-├── PhonePe_Analytics_Dashboard.pbix       (Power BI Dashboard File)
-├── PhonePe_Data_Queries.sql               (SQL scripts for data transformation)
+├── PhonePe_Analytics_Dashboard.pbix       (Power BI Dashboard File)            
 ├── Source_Data/
 │   └── PhonePe_Transaction_Data.csv       (Raw dataset)
 └── Visualizations/
