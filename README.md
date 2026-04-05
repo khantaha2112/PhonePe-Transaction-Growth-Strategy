@@ -2,6 +2,7 @@
 
 _Analyze digital payment transactions to uncover key insights across Loans, Insurance, Money Transfer, and Recharge & Bill Payments, enabling a data-driven transaction growth strategy for PhonePe._
 
+<img width="1743" height="663" alt="image" src="https://github.com/user-attachments/assets/3f381815-2f99-4780-89bd-f6890be2b0c1" />
 
 
 ---
